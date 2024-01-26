@@ -22,4 +22,4 @@ The Simon Game is a classic electronic memory game built using HTML, CSS, and Ja
 * Enjoy testing your memory and reflexes with the Simon Game!
 
 ## Demo: ##
-Play the Simon Game (Replace "#" with the link to your deployed game)
+[Play the Simon Game](https://inmate22.github.io/Simon-Game/)
